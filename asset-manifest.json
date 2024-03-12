@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/facul/static/css/main.91ecd31b.css",
+    "main.js": "/facul/static/js/main.5eaa8117.js",
+    "static/js/453.3eb0b7e9.chunk.js": "/facul/static/js/453.3eb0b7e9.chunk.js",
+    "static/media/background.jpeg": "/facul/static/media/background.e3e1d57b6a8c687e0c68.jpeg",
+    "static/media/logo (2).png": "/facul/static/media/logo (2).699af89f69a87959aed7.png",
+    "index.html": "/facul/index.html",
+    "main.91ecd31b.css.map": "/facul/static/css/main.91ecd31b.css.map",
+    "main.5eaa8117.js.map": "/facul/static/js/main.5eaa8117.js.map",
+    "453.3eb0b7e9.chunk.js.map": "/facul/static/js/453.3eb0b7e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91ecd31b.css",
+    "static/js/main.5eaa8117.js"
+  ]
+}
